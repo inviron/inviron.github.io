@@ -1,0 +1,24 @@
+[
+    {
+        "ID" : 11,
+        "type": "mp4",
+        "url": "https://iooh.app/api/uploads/14/show3-1726850165303.mp4",
+        "screen": "ABC123_exemplo1",
+        "horarios": [
+            "2024-09-21T12:20:00.000Z"
+        ],
+        "url_confirmacao": "https://iooh.app/api/view?videoId=11"
+    },
+    {
+        "ID" : 12,
+        "type": "mp4",
+        "url": "https://iooh.app/api/uploads/14/show3-1726850165303.mp4",
+        "screen": "ABC123_exemplo1",
+        "horarios": [
+            "2024-10-21T12:20:00.000Z",
+            "2024-11-12T10:20:00.000Z",
+            "2024-09-21T12:20:00.000Z"
+        ],
+        "url_confirmacao": "https://iooh.app/api/view?videoId=12"
+    }
+]
